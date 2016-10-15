@@ -4,6 +4,8 @@ This is data on professional licenses issued by the Board of Barbering and Cosme
 
 The data was retrieved from California's Department of Consumer Affiars on August 17, 2016. The data contains information on acctive and inactive licenses. 
 
+**Caution:** Although this is public available information, the data contains individualized data and should not be shared outside the IPL.
+
 Dimensions: 600,000 observations/ 19 variables
 
 Variable names:
