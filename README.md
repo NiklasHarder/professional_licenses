@@ -30,6 +30,9 @@ Variable names:
 * Expiration Date
 * License Status
 
+IPL members can download the data here: 
+https://www.dropbox.com/s/roxy7bg9rvwmsri/breeze00.csv?dl=0
+
 Contact persons for the data:
 
 * Niklas Harder
